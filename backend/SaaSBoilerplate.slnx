@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SaaSBoilerplate.Api/SaaSBoilerplate.Api.csproj" />
+  <Project Path="SaaSBoilerplate.Application/SaaSBoilerplate.Application.csproj" />
+  <Project Path="SaaSBoilerplate.Domain/SaaSBoilerplate.Domain.csproj" />
+  <Project Path="SaaSBoilerplate.Infrastructure/SaaSBoilerplate.Infrastructure.csproj" />
+</Solution>

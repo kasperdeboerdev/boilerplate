@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Kasper de Boer",
+  "classifications": ["Web", "WebAPI", "Next.js", "Clean Architecture"],
+  "identity": "SaaS.Boilerplate.Template",
+  "name": "Clean Architecture SaaS Boilerplate (C# + Next.js)",
+  "shortName": "saas-boilerplate",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "SaaSBoilerplate",
+  "preferNameDirectory": true
+}
