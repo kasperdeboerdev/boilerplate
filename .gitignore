@@ -1,0 +1,15 @@
+# Node.js / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env*.local
+
+# .NET / C#
+backend/**/bin/
+backend/**/obj/
+backend/.vs/
+backend/*.user
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
